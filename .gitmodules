@@ -1,0 +1,3 @@
+[submodule "perceptron"]
+	path = perceptron
+	url = git@github.com:yref-boop/perceptron.git
